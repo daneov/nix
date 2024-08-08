@@ -1,0 +1,3 @@
+{
+  vimAlias = true;
+}
